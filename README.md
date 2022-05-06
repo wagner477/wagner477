@@ -15,6 +15,10 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </div>
+ 
+ <p>PYTHON 🐍</p>
+ <p>NODE 🟢</p>
+ <p>REACT ☢</p>
   
   ##
  
@@ -23,6 +27,4 @@
  
 </div>
  
- PYTHON 🐍
- NODE 🟢
- REACT ☢
+ 
