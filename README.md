@@ -16,9 +16,6 @@
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </div>
  
- <p>PYTHON 🐍</p>
- <p>NODE 🟢</p>
- <p>REACT ☢</p>
   
   ##
  
